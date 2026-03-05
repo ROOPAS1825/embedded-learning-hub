@@ -28,13 +28,14 @@ It includes:
 ---
 
 ## Project Structure
-src/
-python/
-c/
-embedded/
-
-docs/
-
+embedded-learning-hub/
+│
+├── src/
+│ ├── python/
+│ ├── c/
+│ └── embedded/
+│
+└── docs/
 ---
 
 ## Who Can Contribute?
